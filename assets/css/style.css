@@ -391,7 +391,7 @@ section.barra,
   letter-spacing: 0.1rem;
   display: flex;
   flex-wrap: wrap;
-  align-content:center;
+  align-content: center;
   justify-content: center;
   height: 88px;
 }
@@ -425,7 +425,8 @@ section.barra,
 button:hover {
   opacity: 0.6;
 }
-.divbtn{
+
+.divbtn {
   height: 44px;
 }
 
@@ -437,96 +438,109 @@ button:hover {
   border-radius: 20px 20px 0 0;
   display: flex;
   flex-wrap: wrap;
-  align-content:center;
+  align-content: center;
   justify-content: center;
   font-size: 80px;
-  color:#bf2e1b;
+  color: #bf2e1b;
   border-bottom: 1px solid #9e9e9e;
 }
 
-#img1{
+#img1 {
   background-image: url(../img/Captura_de_pantalla-2020-10-21_13-38-43.png);
 }
 
-#img1:hover{
+#img1:hover {
   background-image: url(../img/2021-05-16_20-42.png);
 }
 
-#img2{
+#img2 {
   background-image: url(../img/2021-05-16_21-03.png);
 }
 
-#img2:hover{
+#img2:hover {
   background-image: url(../img/2021-05-16_21-04.png);
 }
 
-#img3{
+#img3 {
   background-image: url(../img/2021-05-16_21-18.png);
 }
 
-#img3:hover{
+#img3:hover {
   background-image: url(../img/2021-05-16_21-19.png);
 }
 
-#img4{
+#img4 {
   background-image: url(../img/2021-05-16_21-22.png);
 }
 
-#img4:hover{
+#img4:hover {
   background-image: url(../img/2021-05-16_21-22_1.png);
 }
 
-#img5{
+#img5 {
   background-image: url(../img/2021-05-14_14-10-20.png);
 }
 
-#img5:hover{
+#img5:hover {
   background-image: url(../img/2021-05-14_14-10-41.png);
 }
 
-#img6{
+#img6 {
   background-image: url(../img/2021-05-16_21-35.png);
 }
 
-#img6:hover{
+#img6:hover {
   background-image: url(../img/2021-05-16_21-37.png);
 }
 
-#img7{
+#img7 {
   background-image: url(../img/2021-05-14_14-05-29.png);
 }
 
-#img7:hover{
+#img7:hover {
   background-image: url(../img/2021-05-14_14-06-25.png);
 }
 
-#img8{
+#img8 {
   background-image: url(../img/2021-05-16_21-42.png);
 }
 
-#img8:hover{
+#img8:hover {
   background-image: url(../img/2021-05-16_21-43.png);
 }
 
-#img9{
+#img9 {
   background-image: url(../img/Copy_of_2021-05-14_13-58-16.png);
 }
 
-#img9:hover{
+#img9:hover {
   background-image: url(../img/2021-05-14_14-00-19.png);
 }
-#img10{
+
+#img10 {
   background-image: url(../img/camisetas.jpg);
 }
 
-#img10:hover{
+#img10:hover {
   background-image: url(../img/fotolibros.jpg);
 }
 
-#img11{
+#img11 {
   background-image: url(../img/2021-05-16_22-40.png);
 }
 
-#img11:hover{
+#img11:hover {
   background-image: url(../img/2021-05-16_22-42.png);
+}
+
+footer a {
+  color: white;
+  font-size: x-large;
+}
+
+footer .container{
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
 }
