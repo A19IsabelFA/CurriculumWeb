@@ -393,18 +393,15 @@ section.barra,
 .cardTitulo {
   padding: 0.5rem;
   letter-spacing: 0.1rem;
-}
-
-.cardTitulo {
-  height: 44px;
   display: flex;
-  align-items: center;
-  justify-content: space-around
+  flex-wrap: wrap;
+  align-content:center;
+  justify-content: center;
+  height: 88px;
 }
 
 .make {
   border-top: 1px solid #9e9e9e;
-  ;
 }
 
 .make img {
@@ -431,4 +428,7 @@ section.barra,
 
 button:hover {
   opacity: 0.6;
+}
+.divbtn{
+  height: 44px;
 }
