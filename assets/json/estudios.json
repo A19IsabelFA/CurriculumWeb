@@ -1,0 +1,26 @@
+[
+  {
+    "year": "2019/2021",
+    "titulo": "Técnico en Desarrollo de aplicaciones Web",
+    "centro": "IES San Clemente",
+    "lacalidad": "Santiago de Compostela (modular, actualmente)"
+  },
+  {
+    "year": "2012/2014",
+    "titulo": "Técnico en Producción en Industrias de Artes Gráficas",
+    "centro": "IES Montecelo",
+    "lacalidad": "Pontevedra"
+  },
+  {
+    "year": "2005/2007",
+    "titulo": "Técnico en Preimpresión",
+    "centro": "CIFP Compostela",
+    "lacalidad": "Santiago de Compostela"
+  },
+  {
+    "year": "2003/2004",
+    "titulo": "Técnico de Laboratorio de Imagen",
+    "centro": "IES Xelmirez",
+    "lacalidad": "Santiago de Compostela"
+  }
+]

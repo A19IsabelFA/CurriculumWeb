@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2020,
+    "empresa": "Correos",
+    "puesto": "Agente de clasificación",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Clasificación de envios"
+  },
+  {
+    "year": 2019,
+    "empresa": "Primark",
+    "puesto": "Reponedor nocturno",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Organización y reposición"
+  },
+  {
+    "year": 2018,
+    "empresa": "Campus na nube",
+    "puesto": "Auxiliar de reprografía",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Atención al cliente, Fotocopias, Caja…"
+  },
+  {
+    "year": 2018,
+    "empresa": "Europrint",
+    "puesto": "Auxiliar de serigrafia",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Manipulado"
+  },
+  {
+    "year": "2016/2017",
+    "empresa": "El Correo Gallego",
+    "puesto": "Reponedor nocturno",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Manipulado"
+  },
+  {
+    "year": 2016,
+    "empresa": "Primark",
+    "puesto": "Reponedor nocturno",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Reponedor nocturno"
+  },
+  {
+    "year": "2015/2016",
+    "empresa": "Campus na nube",
+    "puesto": "Técnico en Preimpresión",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Maquetación"
+  },
+  {
+    "year": "2009/2012",
+    "empresa": "Unidixital S.L.",
+    "puesto": "Técnico en Preimpresión",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Maquetación"
+  },
+  {
+    "year": 2008,
+    "empresa": "Gráficas Minerva S.L.",
+    "puesto": "Técnico en Preimpresión",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Preimpresión"
+  },
+  {
+    "year": "2007/2008",
+    "empresa": "Eurograficas Pichel S.L.",
+    "puesto": "Técnico en Preimpresión",
+    "lacalidad": "Santiago de Compostela",
+    "tareas": "Auxiliar Teclista"
+  }
+]
