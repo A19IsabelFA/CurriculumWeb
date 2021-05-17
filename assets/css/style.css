@@ -263,13 +263,14 @@ nav i {
 div.container {
   display: flex;
   justify-content: space-between;
+  align-items: center
 }
 
 .cabecera {
   color: white;
   text-align: center;
-  font-size: 5rem;
-  padding: 2rem;
+  font-size: 3rem;
+  padding: 1rem;
   margin-bottom: 2rem;
   letter-spacing: 0.5rem;
 }
@@ -538,9 +539,19 @@ footer a {
   font-size: x-large;
 }
 
-footer .container{
+footer .container {
   display: flex;
   align-content: center;
   justify-content: space-between;
   align-items: center;
+}
+
+.w-80 {
+  width: 80%;
+  margin: auto;
+}
+
+h2.c6 {
+  margin-top: 3rem;
+  font-size: 2rem;
 }
