@@ -338,3 +338,12 @@ h2.c6 {
 h3 {
   margin: 0%;
 }
+
+span{
+  font-family: 'CLB';
+}
+
+/* button */
+button:hover {
+  opacity: 0.6;
+}

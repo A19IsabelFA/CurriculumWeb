@@ -1,7 +1,7 @@
 fieldset {
     border-radius: 20px;
     padding: 1rem;
-    width: 18rem;
+    width: auto;
     text-align: center;
     border: 1px solid #8e9e37;
 }
@@ -26,4 +26,26 @@ input,
 textarea {
     border-radius: 5px;
     border: 1px solid #8e9e37;
+    font-size: larger;
+    padding: 5px;
+}
+a{
+  text-decoration: none;
+}
+p{
+  text-align: left;
+}
+
+article{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+@media (max-width: 1200px) {
+  article{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
