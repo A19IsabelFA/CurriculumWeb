@@ -7,7 +7,6 @@ let times = 0;
 for (let i = 0; i < fotos.length; i++) {
   times += 200;
   setTimeout(()=>{ fotos[i].style.display= 'block';}, times)
-  //console.log(times)
 }
 
 window.onload = function () {
