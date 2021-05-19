@@ -1,0 +1,58 @@
+.spinner {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 80%;
+}
+
+.spinner:after {
+    animation: changeContent .8s linear infinite;
+    display: block;
+    content: "⠋";
+    font-size: 100px;
+}
+
+@keyframes changeContent {
+    10% {
+        content: "⠙";
+        color: #5a9ab6;
+    }
+    20% {
+        content: "⠹";
+        color: #8e9e37;
+    }
+    30% {
+        content: "⠸";
+        color: #907852;
+    }
+    40% {
+        content: "⠼";
+        color: #78b9b6;
+    }
+    50% {
+        content: "⠴";
+        color: #9b1e1d;
+    }
+    60% {
+        content: "⠦";
+        color: #becc3f;
+    }
+    70% {
+        content: "⠧";
+        color: #bf2e1b;
+    }
+    80% {
+        content: "⠇";
+        color: #deba93;
+    }
+    90% {
+        content: "⠏";
+        color: #c23d59;
+    }
+}
