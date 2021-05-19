@@ -1,0 +1,24 @@
+.barra img {
+  height: 50px;
+}
+
+.barra {
+  padding: 0.5rem 0 1rem 0;
+}
+
+.barBorder {
+  border: 1px solid  #3e3d3d ;
+  width: 10rem;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.barColor {
+  border-radius: 10px 5px 5px 10px;
+
+}
+
+section.barra,
+.otras img {
+  margin: 1rem;
+}
