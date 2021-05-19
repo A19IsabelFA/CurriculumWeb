@@ -1,3 +1,5 @@
+/* https://programadorwebvalencia.com/css-galeria-grid-estilo-pinterest-o-masonry/ */
+
 .grid-gallery {
   display: grid;
   grid-auto-rows: 200px;
