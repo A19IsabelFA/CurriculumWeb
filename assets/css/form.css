@@ -1,0 +1,29 @@
+fieldset {
+    border-radius: 20px;
+    padding: 1rem;
+    width: 18rem;
+    text-align: center;
+    border: 1px solid #8e9e37;
+}
+
+form>div {
+    margin: 0.5rem;
+}
+
+form td {
+    border-bottom: 0;
+}
+
+form button {
+    color: white;
+    font-size: x-large;
+    padding: 0.5rem 2rem;
+    border-radius: 10px;
+    border: 0;
+}
+
+input,
+textarea {
+    border-radius: 5px;
+    border: 1px solid #8e9e37;
+}
