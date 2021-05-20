@@ -153,3 +153,9 @@ span.btn{
   justify-content: center;
   text-decoration: none;
 }
+a{
+  text-decoration: none;
+}
+span:hover{
+  opacity: 0.6;
+}
