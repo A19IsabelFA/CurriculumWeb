@@ -45,5 +45,5 @@
 
 let links = document.querySelectorAll('a[target="_blank"]');
  for (let i = 0, length = links.length; i < length; i++) {
-   links[e].removeAttribute('target');
+   links[i].removeAttribute('target');
  }
