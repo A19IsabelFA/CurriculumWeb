@@ -8,7 +8,7 @@
  document.querySelector('footer').innerHTML = pie;
 
  // boton menu
- 
+
  let btnmenumovil = document.getElementById('menuMovil');
  let menu = document.getElementById('menu');
  btnmenumovil.addEventListener('click', () => {
@@ -22,7 +22,8 @@
  })
 
  /* spinner */
-
+let spinner = document.querySelector('.spinner');
+//console.log(spinner);
  window.onload = function () {
    spinner.style.display = 'none';
  };

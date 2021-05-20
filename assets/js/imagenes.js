@@ -1,6 +1,5 @@
 let fotos = document.querySelectorAll('.grid-gallery__item');
-let spinner = document.querySelector('.spinner');
-//console.log(spinner);
+
 //console.log(fotos);
 
 let times = 0;
