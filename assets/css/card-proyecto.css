@@ -7,19 +7,37 @@
   margin: 0.5rem;
   border-radius: 10px;
   border: 0px;
-  padding: 0.3rem;
+  padding: 0.5rem 1rem;
   color: white;
-  width: 4rem;
 }
 
 .btn i {
   font-size: x-large;
 }
 
+.make,
+.cardTitulo {
+  padding: 0.5rem;
+  letter-spacing: 0.1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  height: 88px;
+}
+
+.make {
+  border-top: 1px solid  rgba(62, 61, 61, 0.5) ; ;
+}
+
+.make img {
+  height: 2.5rem;
+}
 
 .divbtn {
   height: 44px;
 }
+
 
 .cardImg {
   background-size: cover;
@@ -126,3 +144,12 @@
   background-image: url(../img/2021-05-16_22-42.png);
 }
 
+/* botones */
+
+span.btn{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
